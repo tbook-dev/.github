@@ -15,7 +15,8 @@ Within this architecture, the **WISE Score** serves as an on-chain credit index 
 - Discover Incentive Assets → [https://engage.tbook.com/explore](https://engage.tbook.com/explore)
 - Generate WISE Score → [https://engage.tbook.com/wise](https://engage.tbook.com/wise)
 
-### More About Us
-Our team’s project **[Rewardoor](https://ethglobal.com/showcase/rewardoor-6z35e)** — winner of **Scaling Ethereum 2023** — laid the foundation for our attestation technology stack, which has been evolving since the hackathon. 
+### More About Us  
+Our team’s project **[Rewardoor](https://ethglobal.com/showcase/rewardoor-6z35e)**, the winner of **Scaling Ethereum 2023**, laid the foundation for our attestation technology stack, which has been evolving since the hackathon.  
 
-In addition, we developed the **vSBT (verifiable Soulbound Token)** standard and deployed it across multiple leading Layer1 networks, becoming one of the largest SBT issuers in the ecosystem — including [vSBT on Sui](https://blog.sui.io/tbook-incentive-layer-onchain-loyalty/) and [vSBT on TON](https://blog.ton.org/sbt-campaigns-incentives).  
+We also developed the **vSBT (verifiable Soulbound Token)** standard and deployed it across multiple leading Layer1 networks. This work has established TBook as one of the largest SBT issuers in the ecosystem, with implementations such as [**vSBT on Sui**](https://blog.sui.io/tbook-incentive-layer-onchain-loyalty/) and [**vSBT on TON**](https://blog.ton.org/sbt-campaigns-incentives).  
+
