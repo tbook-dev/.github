@@ -1,13 +1,8 @@
 ## Welcome to the TBook organization repos! 👋
 
-**TBook** is the first **full-stack StableFi coordination layer** built for the digital workforce.
-It provides composable, chain-agnostic infrastructure that connects identity, payouts, and yield through verifiable Proof of Contribution.
-By integrating an **on-chain attestation network** and a **programmable distribution layer** for stablecoins and tokenized assets,
-TBook enables autonomous, contract-driven finance for creators, freelancers, and AI agents shaping the future of work.
+**TBook** is the first **embedded RWA (Real-World Asset) liquidity layer** that brings institutional-grade tokenized yield into user-facing apps. Through a **single integration**, apps can generate **RWA-backed** yield on idle customer balances, while RWA issuers unlock liquidity they could not access on their own.
 
-TBook’s Core Modules form the foundation of the **StableFi Layer** — a programmable financial stack for automated payouts, vesting, and incentive distribution based on verified contributions. 
-Within this architecture, the **WISE Score** serves as an on-chain credit index that quantifies users’ overall impact and reputation across Web3 through four key dimensions — **Wealth, Identity, Social, and Engagement**. Complementing it, **Soulbound Tokens (SBTs)** leverage decentralized IDs and on-chain attestations to record verifiable contributions, credentials, and achievements, creating a composable identity and credit layer for the digital workforce.
-
+Engineered for Interoperability TBook unifies three missing primitives into **one embeddable stack**, transforming blockchains from passive ledgers into active coordination engines. Within this architecture, **Incentive Passports **(powered by Verifiable SBTs) serve as portable, on-chain identities that anchor user reputation and achievements across ecosystems. Complementing this, the **WISE Score** acts as an intelligence layer, quantifying impact through four key dimensions — Wealth, Identity, Social, and Engagement — to turn contribution data into transferable creditworthiness. Together with **Smart Settlement**, these layers enable programmable flows where work, payments, and RWA-backed incentives operate as one unified system.
 
 ### Learn More
 - Hompage → [https://www.tbook.com](https://www.tbook.com)
