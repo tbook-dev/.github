@@ -2,7 +2,8 @@
 
 **TBook** is the first **embedded RWA (Real-World Asset) liquidity layer** that brings institutional-grade tokenized yield into user-facing apps. Through a **single integration**, apps can generate **RWA-backed** yield on idle customer balances, while RWA issuers unlock liquidity they could not access on their own.
 
-Engineered for Interoperability TBook unifies three missing primitives into **one embeddable stack**, transforming blockchains from passive ledgers into active coordination engines. Within this architecture, **Incentive Passports **(powered by Verifiable SBTs) serve as portable, on-chain identities that anchor user reputation and achievements across ecosystems. Complementing this, the **WISE Score** acts as an intelligence layer, quantifying impact through four key dimensions — Wealth, Identity, Social, and Engagement — to turn contribution data into transferable creditworthiness. Together with **Smart Settlement**, these layers enable programmable flows where work, payments, and RWA-backed incentives operate as one unified system.
+**Designed for interoperability**, the platform unifies three missing primitives into one **embeddable stack**, transforming blockchains from passive ledgers into **active coordination engines** where work, payments, and incentives operate as one programmable system. Within this architecture, **Incentive Passports** (powered by Verifiable SBTs) serve as portable, on-chain identities that anchor user reputation and achievements across ecosystems. 
+Complementing this, the **WISE Score** acts as an intelligence layer, quantifying impact through four key dimensions — Wealth, Identity, Social, and Engagement — to turn contribution data into transferable creditworthiness. Together with **Smart Settlement**, these layers enable programmable flows where work, payments, and RWA-backed incentives operate as one unified system.
 
 ### Learn More
 - Hompage → [https://www.tbook.com](https://www.tbook.com)
