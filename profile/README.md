@@ -16,3 +16,11 @@ Our team’s project **[Rewardoor](https://ethglobal.com/showcase/rewardoor-6z35
 
 We also developed the **vSBT (verifiable Soulbound Token)** standard and deployed it across multiple leading Layer1 networks. This work has established TBook as one of the largest SBT issuers in the ecosystem, with implementations such as [**vSBT on Sui**](https://blog.sui.io/tbook-incentive-layer-onchain-loyalty/) and [**vSBT on TON**](https://blog.ton.org/sbt-campaigns-incentives).  
 
+#### Traction
+As of end of 2025:
+
+- **10M+** users registered for TBook Incentive Passport, our interoperable omnichain identity
+- **28M+** credentials attested through TBook infrastructure
+- **15M+** asset claims processed
+
+TBook has become the industry's leading asset distribution infrastructure, bridging Web2 and Web3 while connecting RWAs to the unbanked.
